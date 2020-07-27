@@ -80,7 +80,7 @@ main {
 
 footer {
     width: 100%;
-    background-color: red;
+    background-color: #F5B041;
     padding: 16px;
     align-self: center;
     text-align: center;
@@ -138,7 +138,7 @@ small.errorOnce {
 
 .form-item i {
     font-size: 12px;
-    color: red;
+    color: #F5B041;
 }
 
 .box-item {
@@ -205,7 +205,7 @@ small.errorOnce {
 }
 
 .submit:hover {
-    background-color: red;
+    background-color: #F5B041;
     border: 2px solid black;
 }
 
@@ -217,7 +217,7 @@ small.errorOnce {
     height: 800px;
     margin-top: -600px;
     margin-left: -400px;
-    background: red;
+    background: #F5B041;
     border-radius: 40%;
     animation: shift 20s infinite linear;
     z-index: 0;
